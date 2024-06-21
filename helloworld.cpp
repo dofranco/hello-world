@@ -12,8 +12,5 @@ int main()
 //some minore change for the sake of example
 
 //more changes for the sake of example.
-<<<<<<< HEAD
 //added some shit
-=======
 //master shit
->>>>>>> master
